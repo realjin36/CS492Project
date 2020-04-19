@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CS492_ImageForensic</string>
+    <string name="tabTitleRequest">의뢰하기</string>
+    <string name="tabTitleResult">결과보기</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="uploadImageVideo">사진/영상 업로드</string>
+    <string name="touchToUpload">눌러서 업로드하기</string>
+    <string name="serviceType">서비스 형태</string>
+    <string name="basicAnalysis">기본 분석</string>
+    <string name="premiumAnalysis">프리미엄 분석</string>
+    <string name="estimatedTime">예상 분석 시간 %d분"</string>
+    <string name="price">1,200 원</string>
+    <string name="receivingChannel">분석 결과 알림</string>
+    <string name="pay">결제하기</string>
+</resources>

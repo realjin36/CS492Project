@@ -1,0 +1,2 @@
+rootProject.name='CS492_ImageForensic'
+include ':app'
